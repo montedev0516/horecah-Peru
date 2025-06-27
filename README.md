@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![HorecaH Peru Logo](https://via.placeholder.com/200x100/4F46E5/FFFFFF?text=HorecaH+Peru)
-
 **The Ultimate B2B Marketplace for Peru's Hospitality Industry**
 
 [![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
@@ -150,27 +148,6 @@ graph TB
 </td>
 </tr>
 </table>
-
----
-
-## 📱 **Screenshots & Demo**
-
-<div align="center">
-
-### Mobile App Interface
-<table>
-<tr>
-<td><img src="https://via.placeholder.com/250x500/4F46E5/FFFFFF?text=Home+Screen" alt="Home Screen" width="200"/></td>
-<td><img src="https://via.placeholder.com/250x500/10B981/FFFFFF?text=Publish+Ad" alt="Publish Ad" width="200"/></td>
-<td><img src="https://via.placeholder.com/250x500/F59E0B/FFFFFF?text=Chat+Screen" alt="Chat" width="200"/></td>
-<td><img src="https://via.placeholder.com/250x500/EF4444/FFFFFF?text=Profile" alt="Profile" width="200"/></td>
-</tr>
-</table>
-
-### Admin Dashboard
-<img src="https://via.placeholder.com/800x400/6366F1/FFFFFF?text=Admin+Dashboard+Preview" alt="Admin Dashboard" width="600"/>
-
-</div>
 
 ---
 
