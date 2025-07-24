@@ -1,4 +1,4 @@
-# 🏨 HorecaH Peru - B2B Hospitality Marketplace
+3r# 🏨 HorecaH Peru - B2B Hospitality Marketplace
 
 <div align="center">
 
@@ -241,12 +241,6 @@ socket.on('new-message', (data) => {
     // Handle incoming message
 });
 ```
-
-## 📞 **Support & Contact**
-
-- 📧 **Email**: montecristodev2025@gmail.com
-- 💬 **Telegram**: [Join our community](https://t.me/alpha_T0108)
-- 🐦 **Twitter**: [@HorecahPeru](https://twitter.com/horecahperu)
 
 ---
 
